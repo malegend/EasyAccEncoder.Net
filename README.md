@@ -3,17 +3,17 @@ A .net standard AccEncoder, encode PCM(G711,G726,Raw) data To AAC(ADTS).
 
 From: https://github.com/EasyDarwin/EasyAACEncoder
 
-# Project Introduction #
+# Introduction #
  The C# API encapsulation of the [EasyDarwin/EasyAACEncoder](https://github.com/EasyDarwin/EasyAACEncoder).
  
  Built-in AACEncodder P/Invoke engine reference, no need to copy library files to the runtime directory.
 
 # Supported Platforms #
-Windows x64/x86
+	Windows x64/x86
 
-Linux x64
+	Linux x64
  
-# Project composition #
+# Composition #
  This project contains two C# projects, EasyAACEncoder.Net and EasyAACEncoderDemo. Based on .Net Standard 2.1, it can be used with most .NET versions.
  
  ## EasyAACEncoder.Net ##
