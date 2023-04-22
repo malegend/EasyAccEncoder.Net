@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EasyAccEncoder\EasyAccEncoder.Net.csproj" />
+    <ProjectReference Include="..\EasyAccEncoder.Net\EasyAccEncoder.Net.csproj" />
   </ItemGroup>
 
   <ItemGroup>
